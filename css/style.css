@@ -1,5 +1,6 @@
 body {
   padding-top: 75px;
+  width: 100%;
 }
 
 .box-shadow {
@@ -18,6 +19,7 @@ body {
   }
   body {
     padding-top: 0px;
+    width: 100%;
   }
   .fixed-top {
     position: relative;
